@@ -1,0 +1,6 @@
+entry ipc_bench
+kernel fiasco -serial_esc
+moe ipc_bench.cfg
+module l4re
+module ned
+module ipc_bench
